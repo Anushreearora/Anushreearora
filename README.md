@@ -1,4 +1,8 @@
-## Hi there 👋
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/ed/f9/18/edf91820f45ec88c7dd99d689d36b7e8.gif" width="800"/>
+</div>
+
+## hi there, i'm anushree🌻 
 
 <!--
 **Anushreearora/Anushreearora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
