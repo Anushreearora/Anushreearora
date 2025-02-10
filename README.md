@@ -4,7 +4,7 @@
 
 ## hi there, i'm anushree🌻 
 
-### 💻 I am Computer Science Senior at Nanyang Technological University.
+### 💻 I am a Computer Science and Business Senior at Nanyang Technological University, Singapore.
 ### ⚡ I love solving complex business problems with the power of technology
 ### 💬 Some of my key interest areas are AI, data science and full-stack software developement.
 ### 🪄 I am currently tinkering with agentic AI and it's applications.
